@@ -1,0 +1,4350 @@
+{
+    @context: "http://iiif.io/api/presentation/2/context.json",
+    @type: "sc:Manifest",
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/manifest",
+    label: [
+    {
+    @language: "en",
+    @value: "volume 1"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "pod/_1"
+    }
+    ],
+    license: "https://creativecommons.org/publicdomain/mark/1.0/",
+    attribution: [
+    {
+    @language: "en",
+    @value: "Buddhist Digital Resource Center"
+    },
+    {
+    @language: "bo",
+    @value: "ནང་བསྟན་དཔེ་ཚོགས་ལྟེ་གནས།"
+    },
+    {
+    @language: "zh",
+    @value: "佛教数字资源中心（BDRC）"
+    }
+    ],
+    rendering: [
+    {
+    @id: "https://iiif.bdrc.io/download/pdf/v:bdr:V1NLM140_I1NLM140_001::1-113",
+    label: "Download as PDF",
+    format: "application/pdf"
+    },
+    {
+    @id: "https://iiif.bdrc.io/download/zip/v:bdr:V1NLM140_I1NLM140_001::1-113",
+    label: "Download as ZIP",
+    format: "application/zip"
+    }
+    ],
+    sequences: [
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/sequence/main",
+    @type: "sc:Sequence",
+    viewingDirection: "top-to-bottom",
+    startCanvas: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010001.jpg",
+    canvases: [
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010001.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 1"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "1"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010001.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010001.jpg",
+    width: 2550,
+    height: 549,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 549
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010001.jpg"
+    }
+    ],
+    width: 2550,
+    height: 549
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010002.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 2"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "2"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010002.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010002.jpg",
+    width: 2550,
+    height: 546,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 546
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010002.jpg"
+    }
+    ],
+    width: 2550,
+    height: 546
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010003.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 3"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "3"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010003.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010003.jpg",
+    width: 2550,
+    height: 546,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 546
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010003.jpg"
+    }
+    ],
+    width: 2550,
+    height: 546
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010004.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 4"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "4"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010004.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010004.jpg",
+    width: 2550,
+    height: 545,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 545
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010004.jpg"
+    }
+    ],
+    width: 2550,
+    height: 545
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010005.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 5"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "5"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010005.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010005.jpg",
+    width: 2550,
+    height: 554,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 554
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010005.jpg"
+    }
+    ],
+    width: 2550,
+    height: 554
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010006.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 6"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "6"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010006.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010006.jpg",
+    width: 2550,
+    height: 554,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 554
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010006.jpg"
+    }
+    ],
+    width: 2550,
+    height: 554
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010007.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 7"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "7"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010007.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010007.jpg",
+    width: 2550,
+    height: 554,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 554
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010007.jpg"
+    }
+    ],
+    width: 2550,
+    height: 554
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010008.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 8"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "8"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010008.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010008.jpg",
+    width: 2550,
+    height: 549,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 549
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010008.jpg"
+    }
+    ],
+    width: 2550,
+    height: 549
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010009.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 9"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "9"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010009.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010009.jpg",
+    width: 2550,
+    height: 546,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 546
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010009.jpg"
+    }
+    ],
+    width: 2550,
+    height: 546
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010010.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 10"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "10"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010010.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010010.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010010.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010011.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 11"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "11"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010011.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010011.jpg",
+    width: 2550,
+    height: 545,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 545
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010011.jpg"
+    }
+    ],
+    width: 2550,
+    height: 545
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010012.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 12"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "12"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010012.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010012.jpg",
+    width: 2550,
+    height: 549,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 549
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010012.jpg"
+    }
+    ],
+    width: 2550,
+    height: 549
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010013.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 13"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "13"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010013.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010013.jpg",
+    width: 2550,
+    height: 545,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 545
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010013.jpg"
+    }
+    ],
+    width: 2550,
+    height: 545
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010014.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 14"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "14"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010014.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010014.jpg",
+    width: 2550,
+    height: 549,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 549
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010014.jpg"
+    }
+    ],
+    width: 2550,
+    height: 549
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010015.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 15"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "15"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010015.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010015.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010015.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010016.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 16"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "16"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010016.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010016.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010016.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010017.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 17"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "17"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010017.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010017.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010017.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010018.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 18"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "18"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010018.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010018.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010018.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010019.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 19"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "19"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010019.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010019.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010019.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010020.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 20"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "20"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010020.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010020.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010020.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010021.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 21"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "21"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010021.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010021.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010021.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010022.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 22"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "22"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010022.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010022.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010022.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010023.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 23"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "23"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010023.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010023.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010023.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010024.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 24"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "24"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010024.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010024.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010024.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010025.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 25"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "25"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010025.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010025.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010025.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010026.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 26"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "26"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010026.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010026.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010026.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010027.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 27"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "27"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010027.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010027.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010027.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010028.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 28"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "28"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010028.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010028.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010028.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010029.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 29"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "29"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010029.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010029.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010029.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010030.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 30"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "30"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010030.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010030.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010030.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010031.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 31"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "31"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010031.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010031.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010031.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010032.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 32"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "32"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010032.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010032.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010032.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010033.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 33"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "33"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010033.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010033.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010033.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010034.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 34"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "34"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010034.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010034.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010034.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010035.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 35"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "35"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010035.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010035.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010035.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010036.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 36"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "36"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010036.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010036.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010036.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010037.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 37"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "37"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010037.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010037.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010037.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010038.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 38"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "38"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010038.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010038.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010038.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010039.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 39"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "39"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010039.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010039.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010039.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010040.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 40"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "40"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010040.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010040.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010040.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010041.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 41"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "41"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010041.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010041.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010041.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010042.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 42"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "42"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010042.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010042.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010042.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010043.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 43"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "43"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010043.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010043.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010043.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010044.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 44"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "44"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010044.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010044.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010044.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010045.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 45"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "45"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010045.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010045.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010045.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010046.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 46"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "46"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010046.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010046.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010046.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010047.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 47"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "47"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010047.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010047.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010047.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010048.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 48"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "48"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010048.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010048.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010048.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010049.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 49"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "49"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010049.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010049.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010049.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010050.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 50"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "50"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010050.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010050.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010050.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010051.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 51"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "51"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010051.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010051.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010051.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010052.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 52"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "52"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010052.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010052.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010052.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010053.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 53"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "53"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010053.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010053.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010053.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010054.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 54"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "54"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010054.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010054.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010054.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010055.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 55"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "55"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010055.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010055.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010055.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010056.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 56"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "56"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010056.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010056.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010056.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010057.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 57"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "57"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010057.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010057.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010057.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010058.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 58"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "58"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010058.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010058.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010058.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010059.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 59"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "59"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010059.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010059.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010059.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010060.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 60"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "60"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010060.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010060.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010060.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010061.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 61"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "61"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010061.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010061.jpg",
+    width: 2550,
+    height: 543,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 543
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010061.jpg"
+    }
+    ],
+    width: 2550,
+    height: 543
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010062.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 62"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "62"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010062.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010062.jpg",
+    width: 2550,
+    height: 547,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 547
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010062.jpg"
+    }
+    ],
+    width: 2550,
+    height: 547
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010063.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 63"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "63"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010063.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010063.jpg",
+    width: 2550,
+    height: 545,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 545
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010063.jpg"
+    }
+    ],
+    width: 2550,
+    height: 545
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010064.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 64"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "64"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010064.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010064.jpg",
+    width: 2550,
+    height: 550,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 550
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010064.jpg"
+    }
+    ],
+    width: 2550,
+    height: 550
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010065.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 65"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "65"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010065.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010065.jpg",
+    width: 2550,
+    height: 546,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 546
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010065.jpg"
+    }
+    ],
+    width: 2550,
+    height: 546
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010066.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 66"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "66"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010066.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010066.jpg",
+    width: 2550,
+    height: 549,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 549
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010066.jpg"
+    }
+    ],
+    width: 2550,
+    height: 549
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010067.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 67"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "67"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010067.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010067.jpg",
+    width: 2550,
+    height: 544,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 544
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010067.jpg"
+    }
+    ],
+    width: 2550,
+    height: 544
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010068.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 68"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "68"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010068.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010068.jpg",
+    width: 2550,
+    height: 549,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 549
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010068.jpg"
+    }
+    ],
+    width: 2550,
+    height: 549
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010069.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 69"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "69"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010069.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010069.jpg",
+    width: 2550,
+    height: 549,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 549
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010069.jpg"
+    }
+    ],
+    width: 2550,
+    height: 549
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010070.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 70"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "70"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010070.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010070.jpg",
+    width: 2550,
+    height: 549,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 549
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010070.jpg"
+    }
+    ],
+    width: 2550,
+    height: 549
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010071.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 71"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "71"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010071.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010071.jpg",
+    width: 2550,
+    height: 546,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 546
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010071.jpg"
+    }
+    ],
+    width: 2550,
+    height: 546
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010072.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 72"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "72"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010072.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010072.jpg",
+    width: 2550,
+    height: 546,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 546
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010072.jpg"
+    }
+    ],
+    width: 2550,
+    height: 546
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010073.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 73"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "73"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010073.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010073.jpg",
+    width: 2550,
+    height: 546,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 546
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010073.jpg"
+    }
+    ],
+    width: 2550,
+    height: 546
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010074.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 74"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "74"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010074.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010074.jpg",
+    width: 2550,
+    height: 546,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 546
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010074.jpg"
+    }
+    ],
+    width: 2550,
+    height: 546
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010075.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 75"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "75"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010075.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010075.jpg",
+    width: 2550,
+    height: 546,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 546
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010075.jpg"
+    }
+    ],
+    width: 2550,
+    height: 546
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010076.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 76"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "76"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010076.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010076.jpg",
+    width: 2550,
+    height: 549,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 549
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010076.jpg"
+    }
+    ],
+    width: 2550,
+    height: 549
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010077.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 77"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "77"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010077.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010077.jpg",
+    width: 2550,
+    height: 549,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 549
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010077.jpg"
+    }
+    ],
+    width: 2550,
+    height: 549
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010078.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 78"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "78"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010078.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010078.jpg",
+    width: 2550,
+    height: 548,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 548
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010078.jpg"
+    }
+    ],
+    width: 2550,
+    height: 548
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010079.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 79"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "79"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010079.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010079.jpg",
+    width: 2550,
+    height: 546,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 546
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010079.jpg"
+    }
+    ],
+    width: 2550,
+    height: 546
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010080.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 80"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "80"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010080.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010080.jpg",
+    width: 2550,
+    height: 548,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 548
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010080.jpg"
+    }
+    ],
+    width: 2550,
+    height: 548
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010081.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 81"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "81"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010081.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010081.jpg",
+    width: 2550,
+    height: 546,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 546
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010081.jpg"
+    }
+    ],
+    width: 2550,
+    height: 546
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010082.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 82"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "82"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010082.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010082.jpg",
+    width: 2550,
+    height: 546,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 546
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010082.jpg"
+    }
+    ],
+    width: 2550,
+    height: 546
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010083.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 83"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "83"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010083.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010083.jpg",
+    width: 2550,
+    height: 545,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 545
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010083.jpg"
+    }
+    ],
+    width: 2550,
+    height: 545
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010084.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 84"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "84"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010084.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010084.jpg",
+    width: 2550,
+    height: 546,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 546
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010084.jpg"
+    }
+    ],
+    width: 2550,
+    height: 546
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010085.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 85"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "85"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010085.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010085.jpg",
+    width: 2550,
+    height: 546,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 546
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010085.jpg"
+    }
+    ],
+    width: 2550,
+    height: 546
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010086.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 86"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "86"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010086.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010086.jpg",
+    width: 2550,
+    height: 546,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 546
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010086.jpg"
+    }
+    ],
+    width: 2550,
+    height: 546
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010087.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 87"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "87"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010087.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010087.jpg",
+    width: 2550,
+    height: 539,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 539
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010087.jpg"
+    }
+    ],
+    width: 2550,
+    height: 539
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010088.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 88"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "88"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010088.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010088.jpg",
+    width: 2550,
+    height: 546,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 546
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010088.jpg"
+    }
+    ],
+    width: 2550,
+    height: 546
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010089.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 89"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "89"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010089.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010089.jpg",
+    width: 2550,
+    height: 546,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 546
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010089.jpg"
+    }
+    ],
+    width: 2550,
+    height: 546
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010090.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 90"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "90"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010090.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010090.jpg",
+    width: 2550,
+    height: 546,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 546
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010090.jpg"
+    }
+    ],
+    width: 2550,
+    height: 546
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010091.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 91"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "91"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010091.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010091.jpg",
+    width: 2550,
+    height: 546,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 546
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010091.jpg"
+    }
+    ],
+    width: 2550,
+    height: 546
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010092.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 92"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "92"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010092.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010092.jpg",
+    width: 2550,
+    height: 548,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 548
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010092.jpg"
+    }
+    ],
+    width: 2550,
+    height: 548
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010093.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 93"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "93"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010093.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010093.jpg",
+    width: 2550,
+    height: 546,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 546
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010093.jpg"
+    }
+    ],
+    width: 2550,
+    height: 546
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010094.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 94"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "94"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010094.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010094.jpg",
+    width: 2550,
+    height: 546,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 546
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010094.jpg"
+    }
+    ],
+    width: 2550,
+    height: 546
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010095.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 95"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "95"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010095.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010095.jpg",
+    width: 2550,
+    height: 544,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 544
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010095.jpg"
+    }
+    ],
+    width: 2550,
+    height: 544
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010096.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 96"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "96"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010096.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010096.jpg",
+    width: 2550,
+    height: 550,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 550
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010096.jpg"
+    }
+    ],
+    width: 2550,
+    height: 550
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010097.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 97"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "97"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010097.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010097.jpg",
+    width: 2550,
+    height: 546,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 546
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010097.jpg"
+    }
+    ],
+    width: 2550,
+    height: 546
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010098.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 98"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "98"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010098.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010098.jpg",
+    width: 2550,
+    height: 541,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 541
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010098.jpg"
+    }
+    ],
+    width: 2550,
+    height: 541
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010099.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 99"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "99"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010099.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010099.jpg",
+    width: 2550,
+    height: 544,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 544
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010099.jpg"
+    }
+    ],
+    width: 2550,
+    height: 544
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010100.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 100"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "100"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010100.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010100.jpg",
+    width: 2550,
+    height: 549,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 549
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010100.jpg"
+    }
+    ],
+    width: 2550,
+    height: 549
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010101.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 101"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "101"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010101.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010101.jpg",
+    width: 2550,
+    height: 544,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 544
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010101.jpg"
+    }
+    ],
+    width: 2550,
+    height: 544
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010102.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 102"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "102"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010102.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010102.jpg",
+    width: 2550,
+    height: 549,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 549
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010102.jpg"
+    }
+    ],
+    width: 2550,
+    height: 549
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010103.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 103"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "103"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010103.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010103.jpg",
+    width: 2550,
+    height: 544,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 544
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010103.jpg"
+    }
+    ],
+    width: 2550,
+    height: 544
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010104.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 104"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "104"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010104.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010104.jpg",
+    width: 2550,
+    height: 551,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 551
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010104.jpg"
+    }
+    ],
+    width: 2550,
+    height: 551
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010105.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 105"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "105"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010105.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010105.jpg",
+    width: 2550,
+    height: 544,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 544
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010105.jpg"
+    }
+    ],
+    width: 2550,
+    height: 544
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010106.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 106"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "106"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010106.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010106.jpg",
+    width: 2550,
+    height: 549,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 549
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010106.jpg"
+    }
+    ],
+    width: 2550,
+    height: 549
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010107.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 107"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "107"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010107.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010107.jpg",
+    width: 2550,
+    height: 544,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 544
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010107.jpg"
+    }
+    ],
+    width: 2550,
+    height: 544
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010108.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 108"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "108"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010108.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010108.jpg",
+    width: 2550,
+    height: 549,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 549
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010108.jpg"
+    }
+    ],
+    width: 2550,
+    height: 549
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010109.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 109"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "109"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010109.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010109.jpg",
+    width: 2550,
+    height: 544,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 544
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010109.jpg"
+    }
+    ],
+    width: 2550,
+    height: 544
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010110.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 110"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "110"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010110.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010110.jpg",
+    width: 2550,
+    height: 550,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 550
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010110.jpg"
+    }
+    ],
+    width: 2550,
+    height: 550
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010111.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 111"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "111"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010111.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010111.jpg",
+    width: 2550,
+    height: 544,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 544
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010111.jpg"
+    }
+    ],
+    width: 2550,
+    height: 544
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010112.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 112"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "112"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010112.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010112.jpg",
+    width: 2550,
+    height: 550,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 550
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010112.jpg"
+    }
+    ],
+    width: 2550,
+    height: 550
+    },
+    {
+    @id: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010113.jpg",
+    @type: "sc:Canvas",
+    label: [
+    {
+    @language: "en",
+    @value: "p. 113"
+    },
+    {
+    @language: "bo-x-ewts",
+    @value: "113"
+    }
+    ],
+    images: [
+    {
+    @type: "oa:Annotation",
+    motivation: "sc:painting",
+    resource: {
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010113.jpg/full/max/0/default.jpg",
+    @type: "dctypes:Image",
+    service: {
+    @context: "http://iiif.io/api/image/2/context.json",
+    @id: "https://iiif.bdrc.io/bdr:V1NLM140_I1NLM140_001::I1NLM140_0010113.jpg",
+    width: 2550,
+    height: 544,
+    profile: "http://iiif.io/api/image/2/level0.json",
+    protocol: "http://iiif.io/api/image"
+    },
+    format: "image/jpeg",
+    width: 2550,
+    height: 544
+    },
+    on: "https://iiifpres.bdrc.io/v:bdr:V1NLM140_I1NLM140_001/canvas/I1NLM140_0010113.jpg"
+    }
+    ],
+    width: 2550,
+    height: 544
+    }
+    ]
+    }
+    ],
+    logo: {
+    @id: "https://iiif.bdrc.io/static::logo.png/full/max/0/default.png",
+    format: "image/png"
+    }
+    }

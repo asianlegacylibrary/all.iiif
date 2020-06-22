@@ -1,0 +1,136 @@
+let rootURL = `http://localhost:3000`
+if (process.env.NODE_ENV === 'production') {
+    rootURL = process.env.REACT_APP_PRODUCTION
+}
+
+const t = {
+    '@context': 'http://iiif.io/api/presentation/2/context.json',
+    '@type': 'sc:Manifest',
+    '@id': `${rootURL}/manifests/manifest.json`,
+    label: 'Kangyur',
+    description: 'Test manifest',
+    attribution: 'ACIP',
+    logo: `${rootURL}/logo192.png`,
+    sequences: [
+        {
+            '@type': 'sc:Sequence',
+            viewingDirection: 'top-to-bottom',
+            canvases: [
+                {
+                    '@type': 'sc:Canvas',
+                    '@id': `${rootURL}/segPap_022/canvas/1`,
+                    label: '1',
+                    width: 2550,
+                    height: 882,
+                    images: [
+                        {
+                            '@type': 'oa:Annotation',
+                            motivation: 'sc:painting',
+                            on: `${rootURL}/segPap_022/canvas/1`,
+                            resource: {
+                                '@type': 'dctypes:Image',
+                                '@id':
+                                    'http://157.245.187.36:8182/iiif/2/test_image_01/full/500,/0/default.jpg',
+
+                                service: {
+                                    '@context':
+                                        'http://iiif.io/api/image/2/context.json',
+                                    '@id':
+                                        'http://157.245.187.36:8182/iiif/2/test_image_01.jpg',
+                                    profile:
+                                        'http://iiif.io/api/image/2/level2.json',
+                                },
+                            },
+                        },
+                    ],
+                },
+                {
+                    '@type': 'sc:Canvas',
+                    '@id': `${rootURL}/segPap_022/canvas/2`,
+                    label: '2',
+                    width: 2550,
+                    height: 882,
+                    images: [
+                        {
+                            '@type': 'oa:Annotation',
+                            motivation: 'sc:painting',
+                            on: `${rootURL}/segPap_022/canvas/2`,
+                            resource: {
+                                '@type': 'dctypes:Image',
+                                '@id':
+                                    'http://157.245.187.36:8182/iiif/2/test_image_02/full/500,/0/default.jpg',
+
+                                service: {
+                                    '@context':
+                                        'http://iiif.io/api/image/2/context.json',
+                                    '@id':
+                                        'http://157.245.187.36:8182/iiif/2/test_image_02.jpg',
+                                    profile:
+                                        'http://iiif.io/api/image/2/level2.json',
+                                },
+                            },
+                        },
+                    ],
+                },
+                {
+                    '@type': 'sc:Canvas',
+                    '@id': `${rootURL}/segPap_022/canvas/3`,
+                    label: '3',
+                    width: 2550,
+                    height: 882,
+                    images: [
+                        {
+                            '@type': 'oa:Annotation',
+                            motivation: 'sc:painting',
+                            on: `${rootURL}/segPap_022/canvas/3`,
+                            resource: {
+                                '@type': 'dctypes:Image',
+                                '@id':
+                                    'http://157.245.187.36:8182/iiif/2/test_image_03/full/500,/0/default.jpg',
+
+                                service: {
+                                    '@context':
+                                        'http://iiif.io/api/image/2/context.json',
+                                    '@id':
+                                        'http://157.245.187.36:8182/iiif/2/test_image_03.jpg',
+                                    profile:
+                                        'http://iiif.io/api/image/2/level2.json',
+                                },
+                            },
+                        },
+                    ],
+                },
+                {
+                    '@type': 'sc:Canvas',
+                    '@id': `${rootURL}/segPap_022/canvas/4`,
+                    label: '4',
+                    width: 2550,
+                    height: 882,
+                    images: [
+                        {
+                            '@type': 'oa:Annotation',
+                            motivation: 'sc:painting',
+                            on: `${rootURL}/segPap_022/canvas/4`,
+                            resource: {
+                                '@type': 'dctypes:Image',
+                                '@id':
+                                    'http://157.245.187.36:8182/iiif/2/test_image_04/full/500,/0/default.jpg',
+
+                                service: {
+                                    '@context':
+                                        'http://iiif.io/api/image/2/context.json',
+                                    '@id':
+                                        'http://157.245.187.36:8182/iiif/2/test_image_04.jpg',
+                                    profile:
+                                        'http://iiif.io/api/image/2/level2.json',
+                                },
+                            },
+                        },
+                    ],
+                },
+            ],
+        },
+    ],
+}
+
+export default t
