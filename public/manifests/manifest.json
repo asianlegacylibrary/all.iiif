@@ -48,11 +48,11 @@
                             "on": "http://localhost:3000/segPap_022/canvas/2",
                             "resource": {
                                 "@type": "dctypes:Image",
-                                "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka002/full/500,/0/default.JP2",
+                                "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka002/full/500,/0/default.JP2",
 
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka002.JP2",
+                                    "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka002.JP2",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             }
@@ -72,11 +72,11 @@
                             "on": "http://localhost:3000/segPap_022/canvas/3",
                             "resource": {
                                 "@type": "dctypes:Image",
-                                "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka003/full/500,/0/default.JP2",
+                                "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka003/full/500,/0/default.JP2",
 
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka003.JP2",
+                                    "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka003.JP2",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             }
@@ -96,11 +96,11 @@
                             "on": "http://localhost:3000/segPap_022/canvas/4",
                             "resource": {
                                 "@type": "dctypes:Image",
-                                "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka004/full/500,/0/default.JP2",
+                                "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka004/full/500,/0/default.JP2",
 
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka004.JP2",
+                                    "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka004.JP2",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             }
@@ -110,7 +110,7 @@
                 {
                     "@type": "sc:Canvas",
                     "@id": "http://localhost:3000/segPap_022/canvas/5",
-                    "label": "4",
+                    "label": "5",
                     "width": 2550,
                     "height": 882,
                     "images": [
@@ -120,11 +120,11 @@
                             "on": "http://localhost:3000/segPap_022/canvas/5",
                             "resource": {
                                 "@type": "dctypes:Image",
-                                "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka005/full/500,/0/default.JP2",
+                                "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka005/full/500,/0/default.JP2",
 
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka005.JP2",
+                                    "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka005.JP2",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             }
@@ -134,7 +134,7 @@
                 {
                     "@type": "sc:Canvas",
                     "@id": "http://localhost:3000/segPap_022/canvas/6",
-                    "label": "4",
+                    "label": "6",
                     "width": 2550,
                     "height": 882,
                     "images": [
@@ -144,11 +144,11 @@
                             "on": "http://localhost:3000/segPap_022/canvas/6",
                             "resource": {
                                 "@type": "dctypes:Image",
-                                "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka006/full/500,/0/default.JP2",
+                                "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka006/full/500,/0/default.JP2",
 
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka006.JP2",
+                                    "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka006.JP2",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             }
@@ -158,7 +158,7 @@
                 {
                     "@type": "sc:Canvas",
                     "@id": "http://localhost:3000/segPap_022/canvas/7",
-                    "label": "4",
+                    "label": "7",
                     "width": 2550,
                     "height": 882,
                     "images": [
@@ -168,11 +168,11 @@
                             "on": "http://localhost:3000/segPap_022/canvas/7",
                             "resource": {
                                 "@type": "dctypes:Image",
-                                "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka007/full/500,/0/default.JP2",
+                                "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka007/full/500,/0/default.JP2",
 
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka007.JP2",
+                                    "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka007.JP2",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             }
@@ -182,7 +182,7 @@
                 {
                     "@type": "sc:Canvas",
                     "@id": "http://localhost:3000/segPap_022/canvas/8",
-                    "label": "4",
+                    "label": "8",
                     "width": 2550,
                     "height": 882,
                     "images": [
@@ -192,11 +192,11 @@
                             "on": "http://localhost:3000/segPap_022/canvas/8",
                             "resource": {
                                 "@type": "dctypes:Image",
-                                "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka008/full/500,/0/default.JP2",
+                                "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka008/full/500,/0/default.JP2",
 
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka008.JP2",
+                                    "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka008.JP2",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             }
@@ -206,7 +206,7 @@
                 {
                     "@type": "sc:Canvas",
                     "@id": "http://localhost:3000/segPap_022/canvas/9",
-                    "label": "4",
+                    "label": "9",
                     "width": 2550,
                     "height": 882,
                     "images": [
@@ -216,11 +216,11 @@
                             "on": "http://localhost:3000/segPap_022/canvas/9",
                             "resource": {
                                 "@type": "dctypes:Image",
-                                "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka009/full/500,/0/default.JP2",
+                                "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka009/full/500,/0/default.JP2",
 
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka009.JP2",
+                                    "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka009.JP2",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             }
@@ -230,7 +230,7 @@
                 {
                     "@type": "sc:Canvas",
                     "@id": "http://localhost:3000/segPap_022/canvas/10",
-                    "label": "4",
+                    "label": "10",
                     "width": 2550,
                     "height": 882,
                     "images": [
@@ -240,11 +240,11 @@
                             "on": "http://localhost:3000/segPap_022/canvas/10",
                             "resource": {
                                 "@type": "dctypes:Image",
-                                "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka010/full/500,/0/default.JP2",
+                                "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka010/full/500,/0/default.JP2",
 
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka010.JP2",
+                                    "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka010.JP2",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             }
@@ -254,7 +254,7 @@
                 {
                     "@type": "sc:Canvas",
                     "@id": "http://localhost:3000/segPap_022/canvas/11",
-                    "label": "4",
+                    "label": "11",
                     "width": 2550,
                     "height": 882,
                     "images": [
@@ -264,11 +264,11 @@
                             "on": "http://localhost:3000/segPap_022/canvas/11",
                             "resource": {
                                 "@type": "dctypes:Image",
-                                "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka011/full/500,/0/default.JP2",
+                                "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka011/full/500,/0/default.JP2",
 
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka011.JP2",
+                                    "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka011.JP2",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             }
@@ -278,7 +278,7 @@
                 {
                     "@type": "sc:Canvas",
                     "@id": "http://localhost:3000/segPap_022/canvas/12",
-                    "label": "4",
+                    "label": "12",
                     "width": 2550,
                     "height": 882,
                     "images": [
@@ -288,11 +288,11 @@
                             "on": "http://localhost:3000/segPap_022/canvas/12",
                             "resource": {
                                 "@type": "dctypes:Image",
-                                "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka012/full/500,/0/default.JP2",
+                                "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka012/full/500,/0/default.JP2",
 
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka012.JP2",
+                                    "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka012.JP2",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             }
@@ -302,7 +302,7 @@
                 {
                     "@type": "sc:Canvas",
                     "@id": "http://localhost:3000/segPap_022/canvas/13",
-                    "label": "4",
+                    "label": "13",
                     "width": 2550,
                     "height": 882,
                     "images": [
@@ -312,11 +312,11 @@
                             "on": "http://localhost:3000/segPap_022/canvas/13",
                             "resource": {
                                 "@type": "dctypes:Image",
-                                "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka013/full/500,/0/default.JP2",
+                                "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka013/full/500,/0/default.JP2",
 
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka013.JP2",
+                                    "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka013.JP2",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             }
@@ -326,7 +326,7 @@
                 {
                     "@type": "sc:Canvas",
                     "@id": "http://localhost:3000/segPap_022/canvas/14",
-                    "label": "4",
+                    "label": "14",
                     "width": 2550,
                     "height": 882,
                     "images": [
@@ -336,11 +336,11 @@
                             "on": "http://localhost:3000/segPap_022/canvas/14",
                             "resource": {
                                 "@type": "dctypes:Image",
-                                "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka014/full/500,/0/default.JP2",
+                                "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka014/full/500,/0/default.JP2",
 
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka014.JP2",
+                                    "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka014.JP2",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             }
@@ -350,7 +350,7 @@
                 {
                     "@type": "sc:Canvas",
                     "@id": "http://localhost:3000/segPap_022/canvas/15",
-                    "label": "4",
+                    "label": "15",
                     "width": 2550,
                     "height": 882,
                     "images": [
@@ -360,11 +360,11 @@
                             "on": "http://localhost:3000/segPap_022/canvas/15",
                             "resource": {
                                 "@type": "dctypes:Image",
-                                "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka015/full/500,/0/default.JP2",
+                                "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka015/full/500,/0/default.JP2",
 
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka015.JP2",
+                                    "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka015.JP2",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             }
@@ -374,7 +374,7 @@
                 {
                     "@type": "sc:Canvas",
                     "@id": "http://localhost:3000/segPap_022/canvas/16",
-                    "label": "4",
+                    "label": "16",
                     "width": 2550,
                     "height": 882,
                     "images": [
@@ -384,11 +384,11 @@
                             "on": "http://localhost:3000/segPap_022/canvas/16",
                             "resource": {
                                 "@type": "dctypes:Image",
-                                "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka016/full/500,/0/default.JP2",
+                                "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka016/full/500,/0/default.JP2",
 
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka016.JP2",
+                                    "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka016.JP2",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             }
@@ -398,7 +398,7 @@
                 {
                     "@type": "sc:Canvas",
                     "@id": "http://localhost:3000/segPap_022/canvas/17",
-                    "label": "4",
+                    "label": "17",
                     "width": 2550,
                     "height": 882,
                     "images": [
@@ -408,11 +408,11 @@
                             "on": "http://localhost:3000/segPap_022/canvas/17",
                             "resource": {
                                 "@type": "dctypes:Image",
-                                "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka017/full/500,/0/default.JP2",
+                                "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka017/full/500,/0/default.JP2",
 
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka017.JP2",
+                                    "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka017.JP2",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             }
@@ -422,7 +422,7 @@
                 {
                     "@type": "sc:Canvas",
                     "@id": "http://localhost:3000/segPap_022/canvas/18",
-                    "label": "4",
+                    "label": "18",
                     "width": 2550,
                     "height": 882,
                     "images": [
@@ -432,11 +432,11 @@
                             "on": "http://localhost:3000/segPap_022/canvas/18",
                             "resource": {
                                 "@type": "dctypes:Image",
-                                "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka018/full/500,/0/default.JP2",
+                                "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka018/full/500,/0/default.JP2",
 
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka018.JP2",
+                                    "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka018.JP2",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             }
@@ -446,7 +446,7 @@
                 {
                     "@type": "sc:Canvas",
                     "@id": "http://localhost:3000/segPap_022/canvas/19",
-                    "label": "4",
+                    "label": "19",
                     "width": 2550,
                     "height": 882,
                     "images": [
@@ -456,11 +456,11 @@
                             "on": "http://localhost:3000/segPap_022/canvas/19",
                             "resource": {
                                 "@type": "dctypes:Image",
-                                "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka019/full/500,/0/default.JP2",
+                                "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka019/full/500,/0/default.JP2",
 
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka019.JP2",
+                                    "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka019.JP2",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             }
@@ -470,7 +470,7 @@
                 {
                     "@type": "sc:Canvas",
                     "@id": "http://localhost:3000/segPap_022/canvas/20",
-                    "label": "4",
+                    "label": "20",
                     "width": 2550,
                     "height": 882,
                     "images": [
@@ -480,11 +480,11 @@
                             "on": "http://localhost:3000/segPap_022/canvas/20",
                             "resource": {
                                 "@type": "dctypes:Image",
-                                "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka020/full/500,/0/default.JP2",
+                                "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka020/full/500,/0/default.JP2",
 
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka020.JP2",
+                                    "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka020.JP2",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             }
@@ -494,7 +494,7 @@
                 {
                     "@type": "sc:Canvas",
                     "@id": "http://localhost:3000/segPap_022/canvas/21",
-                    "label": "4",
+                    "label": "21",
                     "width": 2550,
                     "height": 882,
                     "images": [
@@ -504,11 +504,11 @@
                             "on": "http://localhost:3000/segPap_022/canvas/21",
                             "resource": {
                                 "@type": "dctypes:Image",
-                                "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka021/full/500,/0/default.JP2",
+                                "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka021/full/500,/0/default.JP2",
 
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka021.JP2",
+                                    "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka021.JP2",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             }
@@ -518,7 +518,7 @@
                 {
                     "@type": "sc:Canvas",
                     "@id": "http://localhost:3000/segPap_022/canvas/22",
-                    "label": "4",
+                    "label": "22",
                     "width": 2550,
                     "height": 882,
                     "images": [
@@ -528,11 +528,11 @@
                             "on": "http://localhost:3000/segPap_022/canvas/22",
                             "resource": {
                                 "@type": "dctypes:Image",
-                                "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka022/full/500,/0/default.JP2",
+                                "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka022/full/500,/0/default.JP2",
 
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka022.JP2",
+                                    "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka022.JP2",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             }
@@ -542,7 +542,7 @@
                 {
                     "@type": "sc:Canvas",
                     "@id": "http://localhost:3000/segPap_022/canvas/23",
-                    "label": "4",
+                    "label": "23",
                     "width": 2550,
                     "height": 882,
                     "images": [
@@ -552,11 +552,11 @@
                             "on": "http://localhost:3000/segPap_022/canvas/23",
                             "resource": {
                                 "@type": "dctypes:Image",
-                                "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka023/full/500,/0/default.JP2",
+                                "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka023/full/500,/0/default.JP2",
 
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka023.JP2",
+                                    "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka023.JP2",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             }
@@ -566,7 +566,7 @@
                 {
                     "@type": "sc:Canvas",
                     "@id": "http://localhost:3000/segPap_022/canvas/24",
-                    "label": "4",
+                    "label": "24",
                     "width": 2550,
                     "height": 882,
                     "images": [
@@ -576,11 +576,11 @@
                             "on": "http://localhost:3000/segPap_022/canvas/24",
                             "resource": {
                                 "@type": "dctypes:Image",
-                                "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka024/full/500,/0/default.JP2",
+                                "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka024/full/500,/0/default.JP2",
 
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka024.JP2",
+                                    "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka024.JP2",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             }
@@ -590,7 +590,7 @@
                 {
                     "@type": "sc:Canvas",
                     "@id": "http://localhost:3000/segPap_022/canvas/25",
-                    "label": "4",
+                    "label": "25",
                     "width": 2550,
                     "height": 882,
                     "images": [
@@ -600,11 +600,11 @@
                             "on": "http://localhost:3000/segPap_022/canvas/25",
                             "resource": {
                                 "@type": "dctypes:Image",
-                                "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka025/full/500,/0/default.JP2",
+                                "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka025/full/500,/0/default.JP2",
 
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "http://157.245.187.36:8182/iiif/2/001__dul_ba_ka025.JP2",
+                                    "@id": "http://157.245.187.36:8182/iiif/2/volume_sfo2_01%2Fraw%2F001__dul_ba_ka025.JP2",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             }

@@ -22,9 +22,12 @@
                     const urlParams = new URLSearchParams(
                         window.location.search
                     )
+                    console.log('hash params', urlParams, window.location.search)
                     const manifest = urlParams.get('manifest')
+                    const cv = urlParams.get('cv')
 
-                    console.log('event on window, uvLoaded')
+                    console.log('event on window, uvLoaded', manifest)
+                    console.log('event on window, CV', cv)
                     console.log('window.UV', window.UV)
                     myUV = createUV(
                         '#uv',
