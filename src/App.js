@@ -13,7 +13,6 @@ if (process.env.NODE_ENV === 'production') {
 const manifestURL = `${rootURL}/manifests/${m}`
 
 const viewerURL = `${rootURL}/uv.html?manifest=${manifestURL}`
-//const viewerURL = `/uv.html?manifest=${manifestURL}`
 
 const manifestLink = (
     <a
