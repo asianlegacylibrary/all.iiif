@@ -14,7 +14,7 @@ if (process.env.NODE_ENV === 'production') {
 const manifestURL =
     'http://iiifpres.bdrc.io/2.1.1/v:bdr:V1NLM1957_I1NLM1957_001/manifest'
 
-const viewerURL = `${rootURL}/uv.html?manifest=${manifestURL}`
+const viewerURL = `https://iiif.asianlegacylibrary.org/uv.html?manifest=${manifestURL}`
 
 console.log(viewerURL)
 
