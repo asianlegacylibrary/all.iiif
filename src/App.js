@@ -3,14 +3,16 @@ import logo from './assets/img/logo512.png'
 import './assets/css/App.css'
 
 let rootURL = `http://localhost:3000`
-let m = `manifest.json`
+// let m = `manifest.json`
 
-if (process.env.NODE_ENV === 'production') {
-    rootURL = process.env.REACT_APP_PRODUCTION
-    m = `manifest_prod.json`
-}
+// if (process.env.NODE_ENV === 'production') {
+//     rootURL = process.env.REACT_APP_PRODUCTION
+//     m = `manifest_prod.json`
+// }
 
-const manifestURL = `${rootURL}/manifests/${m}`
+//const manifestURL = `${rootURL}/manifests/${m}`
+const manifestURL =
+    'http://iiifpres.bdrc.io/2.1.1/v:bdr:V1NLM1957_I1NLM1957_001/manifest'
 
 const viewerURL = `${rootURL}/uv.html?manifest=${manifestURL}`
 
