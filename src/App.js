@@ -16,6 +16,8 @@ const manifestURL =
 
 const viewerURL = `${rootURL}/uv.html?manifest=${manifestURL}`
 
+console.log(viewerURL)
+
 const manifestLink = (
     <a
         className="manifest-link"
