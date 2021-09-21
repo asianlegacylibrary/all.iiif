@@ -5,10 +5,10 @@ import './assets/css/App.css'
 let rootURL = `http://localhost:3000`
 // let m = `manifest.json`
 
-// if (process.env.NODE_ENV === 'production') {
-//     rootURL = process.env.REACT_APP_PRODUCTION
-//     m = `manifest_prod.json`
-// }
+if (process.env.NODE_ENV === 'production') {
+    rootURL = process.env.REACT_APP_PRODUCTION
+    //m = `manifest_prod.json`
+}
 
 //const manifestURL = `${rootURL}/manifests/${m}`
 const manifestURL =
