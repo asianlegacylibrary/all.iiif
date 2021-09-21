@@ -23,7 +23,7 @@ const manifestLink = (
         className="manifest-link"
         target="_blank"
         rel="noopener noreferrer"
-        href={viewerURL}
+        href="https://iiif.asianlegacylibrary.org/uv.html?manifest=http://iiifpres.bdrc.io/2.1.1/v:bdr:V1NLM1957_I1NLM1957_001/manifest"
     >
         :: ACIP hosted IIIF ::
     </a>
