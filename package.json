@@ -7,6 +7,7 @@
         "prettier": "^2.0.5",
         "react": "^16.12.0",
         "react-dom": "^16.12.0",
+        "react-iiif-viewer": "https://github.com/asianlegacylibrary/react-iiif-viewer.git",
         "react-scripts": "3.2.0",
         "universalviewer": "^3.0.16"
     },
