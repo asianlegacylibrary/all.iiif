@@ -7,6 +7,6 @@ export const manifestURLS = [
     {
         key: 'BDRC',
         url:
-            'http://iiifpres.bdrc.io/2.1.1/v:bdr:V1NLM1957_I1NLM1957_001/manifest',
+            'https://iiifpres.bdrc.io/2.1.1/v:bdr:V1NLM1957_I1NLM1957_001/manifest',
     },
 ]
